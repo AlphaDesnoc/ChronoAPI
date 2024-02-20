@@ -1,0 +1,786 @@
+blocks:
+  block409:
+    material: OAK_LEAVES
+    x: -4
+    y: 6
+    z: -3
+  block410:
+    material: OAK_LEAVES
+    x: -4
+    y: 6
+    z: -2
+  block411:
+    material: OAK_LEAVES
+    x: -4
+    y: 6
+    z: -1
+  block418:
+    material: OAK_LEAVES
+    x: -4
+    y: 7
+    z: -3
+  block419:
+    material: OAK_LEAVES
+    x: -4
+    y: 7
+    z: -2
+  block420:
+    material: OAK_LEAVES
+    x: -4
+    y: 7
+    z: -1
+  block421:
+    material: OAK_LEAVES
+    x: -4
+    y: 7
+    z: 0
+  block472:
+    material: DIRT
+    x: -3
+    y: 0
+    z: -3
+  block473:
+    material: DIRT
+    x: -3
+    y: 0
+    z: -2
+  block474:
+    material: DIRT
+    x: -3
+    y: 0
+    z: -1
+  block481:
+    material: DIRT
+    x: -3
+    y: 1
+    z: -3
+  block482:
+    material: DIRT
+    x: -3
+    y: 1
+    z: -2
+  block483:
+    material: DIRT
+    x: -3
+    y: 1
+    z: -1
+  block490:
+    material: DIRT
+    x: -3
+    y: 2
+    z: -3
+  block491:
+    material: DIRT
+    x: -3
+    y: 2
+    z: -2
+  block492:
+    material: DIRT
+    x: -3
+    y: 2
+    z: -1
+  block499:
+    material: GRASS_BLOCK
+    x: -3
+    y: 3
+    z: -3
+  block500:
+    material: GRASS_BLOCK
+    x: -3
+    y: 3
+    z: -2
+  block501:
+    material: GRASS_BLOCK
+    x: -3
+    y: 3
+    z: -1
+  block525:
+    material: OAK_LEAVES
+    x: -3
+    y: 6
+    z: -4
+  block526:
+    material: OAK_LEAVES
+    x: -3
+    y: 6
+    z: -3
+  block527:
+    material: OAK_LEAVES
+    x: -3
+    y: 6
+    z: -2
+  block528:
+    material: OAK_LEAVES
+    x: -3
+    y: 6
+    z: -1
+  block529:
+    material: OAK_LEAVES
+    x: -3
+    y: 6
+    z: 0
+  block534:
+    material: OAK_LEAVES
+    x: -3
+    y: 7
+    z: -4
+  block535:
+    material: OAK_LEAVES
+    x: -3
+    y: 7
+    z: -3
+  block536:
+    material: OAK_LEAVES
+    x: -3
+    y: 7
+    z: -2
+  block537:
+    material: OAK_LEAVES
+    x: -3
+    y: 7
+    z: -1
+  block538:
+    material: OAK_LEAVES
+    x: -3
+    y: 7
+    z: 0
+  block544:
+    material: OAK_LEAVES
+    x: -3
+    y: 8
+    z: -3
+  block545:
+    material: OAK_LEAVES
+    x: -3
+    y: 8
+    z: -2
+  block554:
+    material: OAK_LEAVES
+    x: -3
+    y: 9
+    z: -2
+  block589:
+    material: DIRT
+    x: -2
+    y: 0
+    z: -3
+  block590:
+    material: DIRT
+    x: -2
+    y: 0
+    z: -2
+  block591:
+    material: DIRT
+    x: -2
+    y: 0
+    z: -1
+  block598:
+    material: DIRT
+    x: -2
+    y: 1
+    z: -3
+  block599:
+    material: DIRT
+    x: -2
+    y: 1
+    z: -2
+  block600:
+    material: DIRT
+    x: -2
+    y: 1
+    z: -1
+  block607:
+    material: DIRT
+    x: -2
+    y: 2
+    z: -3
+  block608:
+    material: DIRT
+    x: -2
+    y: 2
+    z: -2
+  block609:
+    material: DIRT
+    x: -2
+    y: 2
+    z: -1
+  block616:
+    material: GRASS_BLOCK
+    x: -2
+    y: 3
+    z: -3
+  block617:
+    material: DIRT
+    x: -2
+    y: 3
+    z: -2
+  block618:
+    material: GRASS_BLOCK
+    x: -2
+    y: 3
+    z: -1
+  block626:
+    material: OAK_LOG
+    x: -2
+    y: 4
+    z: -2
+  block627:
+    material: GRASS
+    x: -2
+    y: 4
+    z: -1
+  block635:
+    material: OAK_LOG
+    x: -2
+    y: 5
+    z: -2
+  block642:
+    material: OAK_LEAVES
+    x: -2
+    y: 6
+    z: -4
+  block643:
+    material: OAK_LEAVES
+    x: -2
+    y: 6
+    z: -3
+  block644:
+    material: OAK_LOG
+    x: -2
+    y: 6
+    z: -2
+  block645:
+    material: OAK_LEAVES
+    x: -2
+    y: 6
+    z: -1
+  block646:
+    material: OAK_LEAVES
+    x: -2
+    y: 6
+    z: 0
+  block651:
+    material: OAK_LEAVES
+    x: -2
+    y: 7
+    z: -4
+  block652:
+    material: OAK_LEAVES
+    x: -2
+    y: 7
+    z: -3
+  block653:
+    material: OAK_LOG
+    x: -2
+    y: 7
+    z: -2
+  block654:
+    material: OAK_LEAVES
+    x: -2
+    y: 7
+    z: -1
+  block655:
+    material: OAK_LEAVES
+    x: -2
+    y: 7
+    z: 0
+  block661:
+    material: OAK_LEAVES
+    x: -2
+    y: 8
+    z: -3
+  block662:
+    material: OAK_LOG
+    x: -2
+    y: 8
+    z: -2
+  block663:
+    material: OAK_LEAVES
+    x: -2
+    y: 8
+    z: -1
+  block670:
+    material: OAK_LEAVES
+    x: -2
+    y: 9
+    z: -3
+  block671:
+    material: OAK_LEAVES
+    x: -2
+    y: 9
+    z: -2
+  block672:
+    material: OAK_LEAVES
+    x: -2
+    y: 9
+    z: -1
+  block706:
+    material: DIRT
+    x: -1
+    y: 0
+    z: -3
+  block707:
+    material: DIRT
+    x: -1
+    y: 0
+    z: -2
+  block708:
+    material: DIRT
+    x: -1
+    y: 0
+    z: -1
+  block715:
+    material: DIRT
+    x: -1
+    y: 1
+    z: -3
+  block716:
+    material: DIRT
+    x: -1
+    y: 1
+    z: -2
+  block717:
+    material: DIRT
+    x: -1
+    y: 1
+    z: -1
+  block724:
+    material: DIRT
+    x: -1
+    y: 2
+    z: -3
+  block725:
+    material: DIRT
+    x: -1
+    y: 2
+    z: -2
+  block726:
+    material: DIRT
+    x: -1
+    y: 2
+    z: -1
+  block733:
+    material: GRASS_BLOCK
+    x: -1
+    y: 3
+    z: -3
+  block734:
+    material: GRASS_BLOCK
+    x: -1
+    y: 3
+    z: -2
+  block735:
+    material: GRASS_BLOCK
+    x: -1
+    y: 3
+    z: -1
+  block744:
+    material: GRASS
+    x: -1
+    y: 4
+    z: -1
+  block759:
+    material: OAK_LEAVES
+    x: -1
+    y: 6
+    z: -4
+  block760:
+    material: OAK_LEAVES
+    x: -1
+    y: 6
+    z: -3
+  block761:
+    material: OAK_LEAVES
+    x: -1
+    y: 6
+    z: -2
+  block762:
+    material: OAK_LEAVES
+    x: -1
+    y: 6
+    z: -1
+  block763:
+    material: OAK_LEAVES
+    x: -1
+    y: 6
+    z: 0
+  block768:
+    material: OAK_LEAVES
+    x: -1
+    y: 7
+    z: -4
+  block769:
+    material: OAK_LEAVES
+    x: -1
+    y: 7
+    z: -3
+  block770:
+    material: OAK_LEAVES
+    x: -1
+    y: 7
+    z: -2
+  block771:
+    material: OAK_LEAVES
+    x: -1
+    y: 7
+    z: -1
+  block772:
+    material: OAK_LEAVES
+    x: -1
+    y: 7
+    z: 0
+  block779:
+    material: OAK_LEAVES
+    x: -1
+    y: 8
+    z: -2
+  block788:
+    material: OAK_LEAVES
+    x: -1
+    y: 9
+    z: -2
+  block823:
+    material: DIRT
+    x: 0
+    y: 0
+    z: -3
+  block824:
+    material: DIRT
+    x: 0
+    y: 0
+    z: -2
+  block825:
+    material: DIRT
+    x: 0
+    y: 0
+    z: -1
+  block826:
+    material: DIRT
+    x: 0
+    y: 0
+    z: 0
+  block827:
+    material: DIRT
+    x: 0
+    y: 0
+    z: 1
+  block832:
+    material: DIRT
+    x: 0
+    y: 1
+    z: -3
+  block833:
+    material: DIRT
+    x: 0
+    y: 1
+    z: -2
+  block834:
+    material: DIRT
+    x: 0
+    y: 1
+    z: -1
+  block835:
+    material: DIRT
+    x: 0
+    y: 1
+    z: 0
+  block836:
+    material: DIRT
+    x: 0
+    y: 1
+    z: 1
+  block841:
+    material: DIRT
+    x: 0
+    y: 2
+    z: -3
+  block842:
+    material: DIRT
+    x: 0
+    y: 2
+    z: -2
+  block843:
+    material: DIRT
+    x: 0
+    y: 2
+    z: -1
+  block844:
+    material: DIRT
+    x: 0
+    y: 2
+    z: 0
+  block845:
+    material: DIRT
+    x: 0
+    y: 2
+    z: 1
+  block850:
+    material: GRASS_BLOCK
+    x: 0
+    y: 3
+    z: -3
+  block851:
+    material: GRASS_BLOCK
+    x: 0
+    y: 3
+    z: -2
+  block852:
+    material: GRASS_BLOCK
+    x: 0
+    y: 3
+    z: -1
+  block853:
+    material: GRASS_BLOCK
+    x: 0
+    y: 3
+    z: 0
+  block854:
+    material: GRASS_BLOCK
+    x: 0
+    y: 3
+    z: 1
+  block876:
+    material: OAK_LEAVES
+    x: 0
+    y: 6
+    z: -4
+  block877:
+    material: OAK_LEAVES
+    x: 0
+    y: 6
+    z: -3
+  block878:
+    material: OAK_LEAVES
+    x: 0
+    y: 6
+    z: -2
+  block879:
+    material: OAK_LEAVES
+    x: 0
+    y: 6
+    z: -1
+  block880:
+    material: OAK_LEAVES
+    x: 0
+    y: 6
+    z: 0
+  block886:
+    material: OAK_LEAVES
+    x: 0
+    y: 7
+    z: -3
+  block887:
+    material: OAK_LEAVES
+    x: 0
+    y: 7
+    z: -2
+  block888:
+    material: OAK_LEAVES
+    x: 0
+    y: 7
+    z: -1
+  block940:
+    material: DIRT
+    x: 1
+    y: 0
+    z: -3
+  block941:
+    material: DIRT
+    x: 1
+    y: 0
+    z: -2
+  block942:
+    material: DIRT
+    x: 1
+    y: 0
+    z: -1
+  block943:
+    material: DIRT
+    x: 1
+    y: 0
+    z: 0
+  block944:
+    material: DIRT
+    x: 1
+    y: 0
+    z: 1
+  block949:
+    material: DIRT
+    x: 1
+    y: 1
+    z: -3
+  block950:
+    material: DIRT
+    x: 1
+    y: 1
+    z: -2
+  block951:
+    material: DIRT
+    x: 1
+    y: 1
+    z: -1
+  block952:
+    material: DIRT
+    x: 1
+    y: 1
+    z: 0
+  block953:
+    material: DIRT
+    x: 1
+    y: 1
+    z: 1
+  block958:
+    material: DIRT
+    x: 1
+    y: 2
+    z: -3
+  block959:
+    material: DIRT
+    x: 1
+    y: 2
+    z: -2
+  block960:
+    material: DIRT
+    x: 1
+    y: 2
+    z: -1
+  block961:
+    material: DIRT
+    x: 1
+    y: 2
+    z: 0
+  block962:
+    material: DIRT
+    x: 1
+    y: 2
+    z: 1
+  block967:
+    material: GRASS_BLOCK
+    x: 1
+    y: 3
+    z: -3
+  block968:
+    material: GRASS_BLOCK
+    x: 1
+    y: 3
+    z: -2
+  block969:
+    material: GRASS_BLOCK
+    x: 1
+    y: 3
+    z: -1
+  block970:
+    material: GRASS_BLOCK
+    x: 1
+    y: 3
+    z: 0
+  block971:
+    material: GRASS_BLOCK
+    x: 1
+    y: 3
+    z: 1
+  block980:
+    material: CHEST
+    x: 1
+    y: 4
+    z: 1
+  block1057:
+    material: DIRT
+    x: 2
+    y: 0
+    z: -3
+  block1058:
+    material: DIRT
+    x: 2
+    y: 0
+    z: -2
+  block1059:
+    material: DIRT
+    x: 2
+    y: 0
+    z: -1
+  block1060:
+    material: DIRT
+    x: 2
+    y: 0
+    z: 0
+  block1061:
+    material: DIRT
+    x: 2
+    y: 0
+    z: 1
+  block1066:
+    material: DIRT
+    x: 2
+    y: 1
+    z: -3
+  block1067:
+    material: DIRT
+    x: 2
+    y: 1
+    z: -2
+  block1068:
+    material: DIRT
+    x: 2
+    y: 1
+    z: -1
+  block1069:
+    material: DIRT
+    x: 2
+    y: 1
+    z: 0
+  block1070:
+    material: DIRT
+    x: 2
+    y: 1
+    z: 1
+  block1075:
+    material: DIRT
+    x: 2
+    y: 2
+    z: -3
+  block1076:
+    material: DIRT
+    x: 2
+    y: 2
+    z: -2
+  block1077:
+    material: DIRT
+    x: 2
+    y: 2
+    z: -1
+  block1078:
+    material: DIRT
+    x: 2
+    y: 2
+    z: 0
+  block1079:
+    material: DIRT
+    x: 2
+    y: 2
+    z: 1
+  block1084:
+    material: GRASS_BLOCK
+    x: 2
+    y: 3
+    z: -3
+  block1085:
+    material: GRASS_BLOCK
+    x: 2
+    y: 3
+    z: -2
+  block1086:
+    material: GRASS_BLOCK
+    x: 2
+    y: 3
+    z: -1
+  block1087:
+    material: GRASS_BLOCK
+    x: 2
+    y: 3
+    z: 0
+  block1088:
+    material: GRASS_BLOCK
+    x: 2
+    y: 3
+    z: 1

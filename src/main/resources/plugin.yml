@@ -1,0 +1,4 @@
+name: ChronoAPI
+version: '${project.version}'
+main: com.chrono.chronoapi.ChronoAPI
+api-version: '1.20'
